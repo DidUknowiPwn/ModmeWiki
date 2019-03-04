@@ -14,7 +14,7 @@ Using Legion is fairly simple as the tool only requires the files located within
 > **IMPORTANT:** The tool only supports the base game; so, patch files such as "common(02).rpak" are currently **unsupported**.
 
 ## Ripping:
-- The **.rpak** files contain various encoded assets that Legion can export; and, as of now the currently supported assets are: .txtr (Texture), .dtbl, (Data table)
+- The **.rpak** files contain various encoded assets that Legion can export; and, as of now the currently supported assets are: .txtr (Texture), .dtbl (Data table)
   - .txtr are exported as textures in DDS format.
   - .dtbl are exported as a CSV file.
 
