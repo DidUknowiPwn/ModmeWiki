@@ -7,7 +7,7 @@ _Download and version info:_
 - Game SHA1: "ed4c5f6770881dc4dda2514fa5c43928ebeca181"
 
 ## Usage:
-Using Legion is fairly simple as the tool only requires the files located within "Apex\paks\Wing64" in order to function.
+Using Legion is fairly simple as the tool only requires the files located within "Apex\paks\Win64" in order to function.
 
 - The tool supports Drag and Drop functionality and the files to use are only **.rpak** extensions.
 > **IMPORTANT:** The tool only supports the base game; so, patch files such as "common(02).rpak" are currently **unsupported**.
