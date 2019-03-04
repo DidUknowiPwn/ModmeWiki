@@ -14,8 +14,8 @@ Using Legion is fairly simple as the tool only requires the files located within
 
 ## Ripping:
 - Within **.rpak** contains various encoded assets the assets that the tool supports are: .txtr (Texture), .dtbl, (Data table)
-- .txtr are exported as textures in DDS format.
-- .dtbl are exported as a CSV file.
+  - .txtr are exported as textures in DDS format.
+  - .dtbl are exported as a CSV file.
 
 ## Versioning:
 - 0.0.1 - Initial Release.
